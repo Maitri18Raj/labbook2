@@ -12,11 +12,11 @@ public class TraineeDaoImpl implements ITraineeDao {
 	 private Map<Integer,User> userStore = new HashMap<>();
 	
 	public TraineeDaoImpl() {
-		Trainee trainee1 = new Trainee(10,"Vibhor","java","Bhopal");
-		Trainee trainee2 = new Trainee(11,"VJ","Angular","pune");
-		Trainee trainee3 = new Trainee(12,"kapoor","js","Bhopal");
-		Trainee trainee4 = new Trainee(13,"Ritu","Spring","Bhopal");
-		Trainee trainee5 = new Trainee(14,"Shreya","java","Bhopal");
+		Trainee trainee1 = new Trainee(10,"Maitri","java","Bhopal");
+		Trainee trainee2 = new Trainee(11,"Arya","Angular","pune");
+		Trainee trainee3 = new Trainee(12,"Neha","js","Bhopal");
+		Trainee trainee4 = new Trainee(13,"Puja","Spring","Bhopal");
+		Trainee trainee5 = new Trainee(14,"Maliha","java","Bhopal");
 		store.put(trainee1.getTraineeId(),trainee1);
 		store.put(trainee2.getTraineeId(),trainee2);
 		store.put(trainee3.getTraineeId(),trainee3);
