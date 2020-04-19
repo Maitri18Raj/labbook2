@@ -1,0 +1,43 @@
+body
+{
+	background-image:url('img24.jpg');
+	
+}
+#t
+{
+	position:relative;
+	left:450px;
+	top:170px;
+	color:black;
+    font:bold;
+	font-size:30px;
+	font-family:comic sans ms;
+	text-shadow:3px 5px 5px white;
+}
+#t1
+{
+	position:relative; 
+	top:380px;
+	left:1000px;
+	font-size:15px;
+	font-family:comic sans ms;
+	text-shadow:5px 7px 1px black;
+	
+}
+#t2
+{
+	position:relative;
+	left:350px;
+	top:90px;
+	color:black;
+    font:bold;
+	font-size:25px;
+	font-family:comic sans ms;
+	text-shadow:3px 5px 5px white;
+}
+h1
+{
+	text-decoration:underline;
+		font-family:comic sans ms;
+	text-shadow:3px 5px 5px white;
+}
