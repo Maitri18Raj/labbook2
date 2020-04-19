@@ -1,0 +1,10 @@
+D:\Module3\mvc\TraineeMvcLab2\src\main\java\org\cap\entities\User.java
+D:\Module3\mvc\TraineeMvcLab2\src\main\java\org\cap\config\MyWebApplicationInitializer.java
+D:\Module3\mvc\TraineeMvcLab2\src\main\java\org\cap\dao\ITraineeDao.java
+D:\Module3\mvc\TraineeMvcLab2\src\main\java\org\cap\dao\TraineeDaoImpl.java
+D:\Module3\mvc\TraineeMvcLab2\src\main\java\org\cap\service\TraineeServiceImpl.java
+D:\Module3\mvc\TraineeMvcLab2\src\main\java\org\cap\service\ITraineeService.java
+D:\Module3\mvc\TraineeMvcLab2\src\main\java\org\cap\util\SessionDetails.java
+D:\Module3\mvc\TraineeMvcLab2\src\main\java\org\cap\entities\Trainee.java
+D:\Module3\mvc\TraineeMvcLab2\src\main\java\org\cap\config\MyWebMVCConfig.java
+D:\Module3\mvc\TraineeMvcLab2\src\main\java\org\cap\controller\TraineeController.java

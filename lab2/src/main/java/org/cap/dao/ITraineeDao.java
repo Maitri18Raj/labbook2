@@ -1,0 +1,16 @@
+package org.cap.dao;
+
+import java.util.Map;
+
+import org.cap.entities.Trainee;
+import org.cap.entities.User;
+
+public interface ITraineeDao {
+	Trainee add(Trainee trainee);
+	void  delete(int traineeId);
+	Trainee modify(Trainee trainee);
+	Trainee retrieve (int traineeId);
+	Map<Integer, Trainee> fetchall();
+	 boolean credentialsCorrect(int id, String password);
+	 User findId (int id);
+}
